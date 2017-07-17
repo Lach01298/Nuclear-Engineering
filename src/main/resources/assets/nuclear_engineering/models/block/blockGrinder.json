@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "nuclear_engineering:blocks/machine/grinderSide",
+    "down": "nuclear_engineering:blocks/machine/grinderSide",
+    "up": "nuclear_engineering:blocks/machine/grinderTop",
+    "north": "nuclear_engineering:blocks/machine/grinderSide",
+    "east": "nuclear_engineering:blocks/machine/grinderSide",
+    "south": "nuclear_engineering:blocks/machine/grinderSide",
+    "west": "nuclear_engineering:blocks/machine/grinderSide"
+  }
+}

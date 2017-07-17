@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "nuclear_engineering:blocks/machine/reactorCase",
+    "down": "nuclear_engineering:blocks/machine/reactorCase",
+    "up": "nuclear_engineering:blocks/machine/reactorCase",
+    "north": "#front",
+    "east": "nuclear_engineering:blocks/machine/reactorCase",
+    "south": "nuclear_engineering:blocks/machine/reactorCase",
+    "west": "nuclear_engineering:blocks/machine/reactorCase"
+  }
+}

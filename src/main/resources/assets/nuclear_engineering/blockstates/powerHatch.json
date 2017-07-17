@@ -1,0 +1,18 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "transform": "forge:default-block",
+        "textures": {"all": "nuclear_engineering:blocks/machine/powerHatchInput" },
+        "model": "cube_all"
+    },
+    "variants":
+    {
+     
+        "type":
+        { 
+        "input":{"textures": {"all": "nuclear_engineering:blocks/machine/powerHatchInput"}},
+        "output":{"textures": {"all": "nuclear_engineering:blocks/machine/powerHatchOutput"}}
+        }
+    }
+}

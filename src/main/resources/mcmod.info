@@ -1,0 +1,17 @@
+[
+{
+  "modid": "nuclear_engineering",
+  "name": "Nuclear Engineering",
+  "description": "A mod that adds all sorts of modern physics things like nuclear reactors and particle accelerators
+   and add all sorts of SciFi/futureristic physics like fusion reactors and gluon guns ",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lach_01298"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

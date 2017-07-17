@@ -1,0 +1,22 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "transform": "forge:default-block",
+        "textures": {"all": "nuclear_engineering:blocks/oreCopper" },
+        "model": "cube_all"
+    },
+    "variants":
+    {
+     
+        "metal":
+        { 
+        "copper":{"textures": {"all": "nuclear_engineering:blocks/oreCopper"}},
+        "tin":{"textures": {"all": "nuclear_engineering:blocks/oreTin"}},
+        "aluminium":{"textures": {"all": "nuclear_engineering:blocks/oreAluminium"}},
+        "lead":{"textures": {"all": "nuclear_engineering:blocks/oreLead"}},
+        "uranium":{"textures": {"all": "nuclear_engineering:blocks/oreUranium"}},
+        "hafnium":{"textures": {"all": "nuclear_engineering:blocks/oreHafnium"}}
+        }
+    }
+}

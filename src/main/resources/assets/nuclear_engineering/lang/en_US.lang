@@ -1,0 +1,66 @@
+// gui
+gui.nuclear_engineering.energyDisplay.name=%.2f RF
+gui.nuclear_engineering.speed.name=Speed: %.2fx 
+gui.nuclear_engineering.runningEnergy.name=%.2f RF/T
+gui.nuclear_engineering.fluidDisplay.name=%.2f mB
+
+gui.nuclear_engineering.reactor.temp=Core Temperature: %d K
+gui.nuclear_engineering.reactor.flux=Neutron Flux: %dx10^15 neutrons/cm^2
+gui.nuclear_engineering.reactor.reflector=Neutron loss: %.2f%%
+gui.nuclear_engineering.reactor.moderator=moderatorFactor: %.2f
+gui.nuclear_engineering.reactor.size=Core Size %d
+gui.nuclear_engineering.reactor.rod=Control Rod %d%%
+gui.nuclear_engineering.reactor.fuel=%d%% %s left
+
+
+
+//radiation
+nuclear_engineering.radiationAlpha=Alpha Radiation: %s cpm
+nuclear_engineering.radiationBeta=Beta Radiation: %s cpm
+nuclear_engineering.radiationGamma=Gamma Radiation: %s cpm
+nuclear_engineering.radiationNeutron=Neutron Radiation: %s cpm
+
+//items
+item.nuclear_engineering.ingotCopper.name=Copper Ingot
+item.nuclear_engineering.ingotTin.name=Tin Ingot
+item.nuclear_engineering.ingotAluminium.name=Aluminium Ingot
+item.nuclear_engineering.ingotLead.name=Lead Ingot
+item.nuclear_engineering.ingotUranium.name=Uranium Ingot
+item.nuclear_engineering.ingotHafnium.name=Hafnium Ingot
+
+item.nuclear_engineering.dustCopper.name=Copper Dust
+item.nuclear_engineering.dustTin.name=Tin Dust
+item.nuclear_engineering.dustAluminium.name=Aluminium Dust
+item.nuclear_engineering.dustLead.name=Lead Dust
+item.nuclear_engineering.dustUranium.name=Uranium Dust
+item.nuclear_engineering.dustHafnium.name=Hafnium Dust
+
+
+item.nuclear_engineering.plateCopper.name=Copper Plate
+item.nuclear_engineering.plateTin.name=Tin Plate
+item.nuclear_engineering.plateLead.name=Lead Plate
+item.nuclear_engineering.plateIron.name=Iron Plate
+
+item.nuclear_engineering.resourceFluorite.name=Fluorite
+
+
+item.nuclear_engineering.upgradeSpeed.name=Speed Upgrade
+item.nuclear_engineering.upgradeEfficiency.name=Efficiency Upgrade
+
+
+//blocks
+tile.nuclear_engineering.ore.copper.name=Copper Ore
+tile.nuclear_engineering.ore.tin.name=Tin Ore
+tile.nuclear_engineering.ore.aluminium.name=Aluminium Ore
+tile.nuclear_engineering.ore.lead.name=Lead Ore
+tile.nuclear_engineering.ore.uranium.name=Uranium Ore
+tile.nuclear_engineering.ore.hafnium.name=Hafnium Ore
+
+//multiblocks
+nuclear_engineering.multiblockFormed=Multiblock Formed
+nuclear_engineering.multiblockNotFormed=Multiblock Failed to Form because %s
+
+
+//machines
+tile.nuclear_engineering.machineGrinder.name=Grinder
+tile.nuclear_engineering.plutoniumRTG.name=Radioisotope Thermoelectric Generator

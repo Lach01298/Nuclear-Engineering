@@ -1,0 +1,13 @@
+{
+    "forge_marker": 1,
+    "defaults":
+    {
+        "transform": "forge:default-block",
+        "textures": {"all": "nuclear_engineering:blocks/machine/itemHatchOutput" },
+        "model": "cube_all"
+    },
+    "variants":
+    {
+        "inventory": [{}]
+    }
+}
